@@ -1,4 +1,4 @@
-# Scientific Plot Studio v2.0
+# Scientific Plot Studio
 
 **Local-first scientific plotting, research analysis and figure composition.**
 
